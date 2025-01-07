@@ -1,26 +1,71 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Jacob Ilagan</h1>
+<h3 align="center">A passionate Computer Programming and Analysis student at Seneca Polytechnic</h3>
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&width=435&lines=Full+Stack+Developer;Mobile+App+Developer;Always+learning+new+technologies" alt="Typing SVG" />
+</p>
 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![CLion](https://img.shields.io/badge/CLion-black?style=for-the-badge&logo=clion&logoColor=white)
-![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)
-![WebStorm](https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=white&color=black)
+## 🚀 About Me
+- 🎓 Currently studying **Computer Programming and Analysis** at Seneca Polytechnic
+- 💼 Previously worked as an **IT Analyst** at the Ontario Public Service
+- 🌱 Building **ElectriDoc**, a mobile document management solution for electricians
+- 🔭 Created **Toronto Internship Job Board**, a platform connecting students with tech opportunities
+- 🎯 Passionate about creating impactful solutions that solve real-world problems
+- 📚 Philosophy and Political Science graduate from University of Toronto
 
+## 🛠️ Tech Stack
 
-```javascript
-const jacob = {
-  pronouns: "he" | "him",
-  code: [Javascript, C, , C++, HTML, CSS, Python],
-  tools: [React, BootStrap, REST APIs, Node, Storybook, Styled-Components, Jest, Docker],
-  architecture: ["microservices", "event-driven", "design system pattern"],
-  techCommunities: {    },
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
-}
-```
+### Languages & Frameworks
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you!</b> :)</em>
+### Databases & Tools
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+## 🌟 Featured Projects
+
+### Toronto Internship Job Board
+A high-performance platform connecting Toronto students with tech internships, built with Next.js and featuring real-time job aggregation.
+- **Tech Stack:** Next.js, React, PostgreSQL, Prisma, TypeScript
+- **Features:** Real-time job aggregation, advanced search, SSR optimization
+- [View Project](https://github.com/ilaganjacob/toronto-internship-board)
+
+### ElectriDoc (In Development)
+A mobile document management solution for electricians, enabling efficient form handling and digital signatures.
+- **Tech Stack:** React Native, Firebase, PandaDoc API
+- **Features:** Offline-first architecture, digital signatures, document management
+- [View Project](https://github.com/ilaganjacob/electridoc)
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ilaganjacob&show_icons=true&theme=dracula" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ilaganjacob&theme=dracula" alt="GitHub Streak" />
+</p>
+
+## 🤝 Let's Connect!
+
+<p align="center">
+  <a href="https://linkedin.com/in/jacob-ilagan" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:jacobcandoilagan@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+---
+<p align="center">💡 Open to internship opportunities and exciting projects!</p>

@@ -38,13 +38,13 @@
 A high-performance platform connecting Toronto students with tech internships, built with Next.js and featuring real-time job aggregation.
 - **Tech Stack:** Next.js, React, PostgreSQL, Prisma, TypeScript
 - **Features:** Real-time job aggregation, advanced search, SSR optimization
-- [View Project](https://github.com/ilaganjacob/toronto-internship-board)
+- [View Project](https://github.com/ilaganjacob/job-board)
 
 ### ElectriDoc (In Development)
 A mobile document management solution for electricians, enabling efficient form handling and digital signatures.
 - **Tech Stack:** React Native, Firebase, PandaDoc API
 - **Features:** Offline-first architecture, digital signatures, document management
-- [View Project](https://github.com/ilaganjacob/electridoc)
+
 
 ## 📈 GitHub Stats
 

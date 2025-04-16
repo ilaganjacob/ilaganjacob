@@ -7,8 +7,8 @@
 
 ## 🚀 About Me
 - 🎓 Currently studying **Computer Programming and Analysis** at Seneca Polytechnic
+- 💼 Currently working as a **Full Stack Developer** at the Ontario Public Service - Ministry of Public and Business Service Delivery and Procurement
 - 💼 Previously worked as an **IT Analyst** at the Ontario Public Service
-- 🌱 Building **ElectriDoc**, a mobile document management solution for electricians
 - 🔭 Created **Toronto Internship Job Board**, a platform connecting students with tech opportunities
 - 🎯 Passionate about creating impactful solutions that solve real-world problems
 - 📚 Philosophy and Political Science graduate from University of Toronto
@@ -39,11 +39,6 @@ A high-performance platform connecting Toronto students with tech internships, b
 - **Tech Stack:** Next.js, React, PostgreSQL, Prisma, TypeScript
 - **Features:** Real-time job aggregation, advanced search, SSR optimization
 - [View Project](https://job-board-tau-kohl.vercel.app/)
-
-### ElectriDoc (In Development)
-A mobile document management solution for electricians, enabling efficient form handling and digital signatures.
-- **Tech Stack:** React Native, Firebase, PandaDoc API
-- **Features:** Offline-first architecture, digital signatures, document management
 
 
 ## 📈 GitHub Stats

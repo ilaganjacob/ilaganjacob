@@ -8,7 +8,7 @@
 ## 🚀 About Me
 - 🎓 Currently studying **Computer Programming and Analysis** at Seneca Polytechnic
 - 💼 Currently working as a **Full Stack Developer** at the Ontario Public Service - Ministry of Public and Business Service Delivery and Procurement
-- 💼 Previously worked as an **IT Analyst** at the Ontario Public Service
+- 💼 Previously worked as an **IT Analyst/Developer** at the Ontario Public Service
 - 🔭 Created **Toronto Internship Job Board**, a platform connecting students with tech opportunities
 - 🎯 Passionate about creating impactful solutions that solve real-world problems
 - 📚 Philosophy and Political Science graduate from University of Toronto

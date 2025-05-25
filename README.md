@@ -9,7 +9,6 @@
 - 🎓 Currently studying **Computer Programming and Analysis** at Seneca Polytechnic
 - 💼 Currently working as a **Full Stack Developer** at the Ontario Public Service - Ministry of Public and Business Service Delivery and Procurement
 - 💼 Previously worked as an **IT Analyst/Developer** at the Ontario Public Service
-- 🔭 Created **Toronto Internship Job Board**, a platform connecting students with tech opportunities
 - 🎯 Passionate about creating impactful solutions that solve real-world problems
 - 📚 Philosophy and Political Science graduate from University of Toronto
 
@@ -31,14 +30,6 @@
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-
-## 🌟 Featured Projects
-
-### Toronto Internship Job Board
-A high-performance platform connecting Toronto students with tech internships, built with Next.js and featuring real-time job aggregation.
-- **Tech Stack:** Next.js, React, PostgreSQL, Prisma, TypeScript
-- **Features:** Real-time job aggregation, advanced search, SSR optimization
-- [View Project](https://job-board-tau-kohl.vercel.app/)
 
 
 ## 📈 GitHub Stats

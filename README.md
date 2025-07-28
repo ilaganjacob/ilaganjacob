@@ -5,7 +5,7 @@
 </p>
 
 ## 🚀 About Me
-- 🎓 **Computer Programming and Analysis** graduate from Seneca Polytechnic (2025)
+- 🎓 **Computer Programming and Analysis** student from Seneca Polytechnic (graduation December 2025)
 - 💼 Currently working as a **Full Stack Developer** at Kenilworth Media Inc.
 - 🏥 Building enterprise veterinary continuing education platform serving 1,000+ professionals
 - 🏛️ Former **Full Stack Developer** at Ontario Public Service (Government of Ontario)

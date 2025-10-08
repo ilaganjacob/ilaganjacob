@@ -11,7 +11,7 @@ class Developer {
         credential: "Advanced Diploma",
         program: "Computer Programming & Analysis",
         school: "Seneca Polytechnic",
-        graduation: "December 2025"
+        graduation: "2025"
       },
       completed: {
         credential: "Honours Bachelor of Arts (HBA)",

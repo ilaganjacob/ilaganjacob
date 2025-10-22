@@ -35,14 +35,12 @@ class Developer {
         company: "Kenilworth Media Inc.",
         period: "July 2025 - Present",
         project: "VetMedTeam Platform",
-        description: "Enterprise continuing education platform for veterinary professionals",
         impact: "1,000+ active users",
         highlights: [
           "Auth0 SSO integration across multiple platforms",
           "GraphQL API connecting VetMedTeam ↔ PathLMS",
-          "Angular 19 modernization (235 files, 17K+ lines refactored)",
-          "RACE/VHMA compliance tracking systems"
-        ]
+          "Angular 19 modernization (235 files, 17K+ lines refactored)"
+          ]
       },
       {
         role: "Full Stack Developer",

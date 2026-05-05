@@ -7,7 +7,7 @@ class Developer {
     this.location = "Toronto, Ontario, Canada";
 
     this.education = {
-      inProgress: "Advanced Diploma — Computer Programming & Analysis @ Seneca Polytechnic (2025)",
+      inProgress: "Advanced Diploma — Computer Programming & Analysis @ Seneca Polytechnic (2026)",
       completed: "HBA Philosophy & Political Science @ University of Toronto (2023)"
     };
 
